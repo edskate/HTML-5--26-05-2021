@@ -1,0 +1,26 @@
+h1{
+    text-shadow: 3px 3px 4px 5px aqua;
+    box-shadow: 3px 5px 5px aqua;
+    margin: 10%; 
+    width: 190px;
+    height: 35px;
+}
+h2{
+    text-shadow: 2px 3px 4px 5px rgb(197, 143, 26);
+    box-shadow: 4px 4px 5px rgb(86, 38, 175); 
+    margin: 10%;
+    width: 130px;
+    height: 25px; 
+}
+body{
+    background-color: rgb(11, 88, 94);
+}
+li{
+    text-shadow: 2px 3px 4px 5px rgb(197, 143, 26);
+    box-shadow: 4px 4px 5px rgb(86, 38, 175); 
+    width: 130px;
+    height: 35px;  
+}
+img{
+    box-shadow: 4px 3px 5px 5px rgb(31, 165, 87); 
+}
